@@ -1,0 +1,283 @@
+# Copyright (C) 2024 Coinscribble Integration
+# This file is distributed under the same license as the Coinscribble Integration package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Coinscribble Integration 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/coinscribble-integration\n"
+"POT-Creation-Date: 2024-04-03 12:39:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-coinscribble-integration-admin.php:103
+#: admin/class-coinscribble-integration-admin.php:105
+#: admin/class-coinscribble-integration-admin.php:138
+#: admin/class-coinscribble-integration-admin.php:140
+#: admin/class-coinscribble-integration-admin.php:175
+#: admin/class-coinscribble-integration-admin.php:177
+#: admin/class-coinscribble-integration-admin.php:191
+msgid "You do not have enough permissions"
+msgstr ""
+
+#: admin/class-coinscribble-integration-admin.php:107
+msgid "Token is required"
+msgstr ""
+
+#: admin/class-coinscribble-integration-admin.php:148
+msgid " is required"
+msgstr ""
+
+#: admin/class-coinscribble-integration-admin.php:150
+#: includes/services/class-coinscribble-post-service.php:61
+#: includes/services/class-coinscribble-post-service.php:184
+msgid "Category not found, please set up categorization in coinscribble setup page!"
+msgstr ""
+
+#: admin/class-coinscribble-integration-admin.php:151
+msgid "Category is not exists!"
+msgstr ""
+
+#: admin/class-coinscribble-integration-admin.php:169
+#: admin/class-coinscribble-integration-admin.php:185
+#: admin/class-coinscribble-integration-admin.php:207
+msgid "Successfully saved!"
+msgstr ""
+
+#: admin/class-coinscribble-integration-admin.php:196
+msgid "Additional input must be eMail!"
+msgstr ""
+
+#: admin/class-coinscribble-integration-admin.php:202
+msgid "Can`t save preferred payment method, first activate your token!"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:25
+#: admin/partials/coinscribble-integration-admin-posts.php:27
+msgid "First page"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:26
+#: admin/partials/coinscribble-integration-admin-posts.php:28
+msgid "Prev page"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:33
+#: admin/partials/coinscribble-integration-admin-posts.php:35
+msgid "Last page"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:34
+#: admin/partials/coinscribble-integration-admin-posts.php:36
+msgid "Next page"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:44
+msgid "Transactions"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:49
+msgid "Refresh transaction list"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:57
+#: admin/partials/coinscribble-integration-admin-overview.php:108
+msgid "transactions"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:64
+#: admin/partials/coinscribble-integration-admin-overview.php:114
+#: admin/partials/coinscribble-integration-admin-posts.php:60
+#: admin/partials/coinscribble-integration-admin-posts.php:107
+msgid "Current Page"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:66
+#: admin/partials/coinscribble-integration-admin-overview.php:116
+#: admin/partials/coinscribble-integration-admin-posts.php:62
+#: admin/partials/coinscribble-integration-admin-posts.php:109
+msgid "of"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:80
+#: admin/partials/coinscribble-integration-admin-overview.php:99
+msgid "Created At"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:81
+#: admin/partials/coinscribble-integration-admin-overview.php:100
+msgid "Payment Method"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:82
+#: admin/partials/coinscribble-integration-admin-overview.php:101
+msgid "Paid"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-overview.php:83
+#: admin/partials/coinscribble-integration-admin-overview.php:102
+msgid "Receipt Link"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-posts.php:45
+msgid "Posts"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-posts.php:53
+#: admin/partials/coinscribble-integration-admin-posts.php:101
+msgid "posts"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-posts.php:76
+#: admin/partials/coinscribble-integration-admin-posts.php:93
+msgid "Title"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-posts.php:77
+#: admin/partials/coinscribble-integration-admin-posts.php:94
+msgid "Link"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-posts.php:78
+#: admin/partials/coinscribble-integration-admin-posts.php:95
+msgid "Category"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-setup.php:25
+msgid "Token status"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-setup.php:33
+#: admin/partials/coinscribble-integration-admin-setup.php:34
+msgid "Token"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-setup.php:45
+#: admin/partials/coinscribble-integration-admin-setup.php:46
+msgid "Status"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-setup.php:65
+msgid "Preferred payment method"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-setup.php:73
+#: admin/partials/coinscribble-integration-admin-setup.php:74
+msgid "Payment method"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-setup.php:106
+msgid "Content Categorization"
+msgstr ""
+
+#: admin/partials/coinscribble-integration-admin-setup.php:126
+msgid "Allow posting"
+msgstr ""
+
+#: includes/configs/class-coinscribble-categories-configs.php:8
+msgid "Press Release"
+msgstr ""
+
+#: includes/configs/class-coinscribble-categories-configs.php:9
+msgid "Sponsored Article"
+msgstr ""
+
+#: includes/configs/class-coinscribble-categories-configs.php:10
+msgid "Organic Article"
+msgstr ""
+
+#: includes/configs/class-coinscribble-license-config.php:14
+msgid "Not activated"
+msgstr ""
+
+#: includes/configs/class-coinscribble-license-config.php:14
+msgid "Failed"
+msgstr ""
+
+#: includes/configs/class-coinscribble-license-config.php:14
+msgid "Activated"
+msgstr ""
+
+#: includes/configs/class-coinscribble-payment-configs.php:8
+msgid "PayPal"
+msgstr ""
+
+#: includes/configs/class-coinscribble-payment-configs.php:9
+msgid "USDT (ERC-20)"
+msgstr ""
+
+#: includes/configs/class-coinscribble-payment-configs.php:10
+msgid "USDC (ERC-20)"
+msgstr ""
+
+#: includes/configs/class-coinscribble-payment-configs.php:11
+msgid "Bank Transfer"
+msgstr ""
+
+#: includes/configs/class-coinscribble-payment-configs.php:20
+msgid "Email address"
+msgstr ""
+
+#: includes/configs/class-coinscribble-payment-configs.php:22
+msgid "Wallet address"
+msgstr ""
+
+#: includes/middlewares/class-coinscribble-access-middleware.php:10
+msgid "Access denied!"
+msgstr ""
+
+#: includes/services/class-coinscribble-service.php:36
+#: includes/services/class-coinscribble-service.php:69
+#: includes/services/class-coinscribble-service.php:99
+#: includes/services/class-coinscribble-service.php:137
+#: includes/services/class-coinscribble-service.php:166
+msgid "Something went wrong!"
+msgstr ""
+
+#: includes/services/class-coinscribble-service.php:41
+msgid "Status Of Plugin Successfully Changed"
+msgstr ""
+
+#: includes/services/class-coinscribble-service.php:72
+msgid "Settings saved!"
+msgstr ""
+
+#: includes/services/class-coinscribble-service.php:98
+msgid "Send status! Code response is - "
+msgstr ""
+
+#: includes/services/class-coinscribble-service.php:111
+msgid "Successfully updated!"
+msgstr ""
+
+#: includes/services/class-coinscribble-service.php:114
+msgid "Coinscribble Token is empty!"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Coinscribble Integration"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integrate Your Site With Coinscribble Platform"
+msgstr ""
+
+msgid "View Docs"
+msgstr ""
+
+
+msgid "Additional info"
+msgstr ""
+
+msgid "To pay"
+msgstr ""
+
+msgid "Please select which category you would like each content type published to."
+msgstr ""
+
+msgid "Publish date"
+msgstr ""
+
+msgid "Note"
+msgstr ""
